@@ -1,0 +1,59 @@
+body{
+    background: whitesmoke;
+    font-family: "Courier 10 Pitch";
+}
+
+.main{
+    position: relative;
+    margin: 100 auto;
+    width: 315px;
+    height: auto;
+    padding: 10px;
+    background: deepskyblue;
+    border: 1px solid aqua;
+    box-shadow: 3px 3px 3px;
+}
+
+.resultado{
+    position: relative;
+    width: 90%;
+    height: 32px;
+    padding: 17px;
+    background: lightslategrey;
+}
+
+.botoes{
+    margin-top: 10px;
+    width: 95%;
+    height: auto;
+    padding: 9px;
+    background: white;
+}
+
+.campo{
+
+    width: 284px;
+    border: none;
+    height: 35px;
+    padding: 7px;
+    opacity: 0.5;
+    color: lightslategrey;
+    font-size: 30px;
+    text-align: right;
+}
+
+.btn{
+    margin-top: 4px;
+    width: 56px;
+    height: 56px;
+    background: deepskyblue;
+    color: black;
+    border: none;
+    font-size: 20px;
+
+}
+
+.igual{
+    width: 115px;
+    height: 55px;
+}
